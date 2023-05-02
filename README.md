@@ -1,2 +1,2 @@
-# Database-Project
-Hospital Management System based on Mysql Application used by sql language for fetching and play with DataBase.
+# DataBase-Project
+Hospital Management System Project based on Mysql Application used by sql language for fetching and play with DataBase.
